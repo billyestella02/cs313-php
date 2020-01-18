@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url("background-space.jpg") no-repeat fixed;
+}
+
+.main-content {
+	width: 50%;
+	margin: 80px auto 0 auto;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	color: white;
+}
+
+#header {
+	font-size: 20px;
+	letter-spacing: 0.1em;
+}
+
+#main-text {
+	padding: 25px 0 80px 0;
+}
+
+#keyword, #assign-link {
+	color: #ff8c00;
+}
+
+#footer {
+	padding-top: 40px;
+	font-size: 20px;
+}
+
+#assign-link {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+
+/** PAGE 2 **/
+
+.assignments {
+	text-decoration: none;
+	display: block;
+	padding: 3px;
+	font-size: 25px;
+	color: white;
+}
+
+.assignments:hover {
+	color: #ff8c00;
+}
+
+/** LINK TO ASSIGNMENTS **/ 
+#back-to-assignments {
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	padding: 10px;
+}
+
+#back-to-assignments:hover {
+	color: #ff8c00;
+}
