@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<form action="confirmation.php" method="post">
+	<form action="week03-confirmation.php" method="post">
 		<p>
 		<input type="text" name="street" placeholder="Street Address"><br><br>
 		<input type="text" name="street_line2" placeholder="Street Address Line 2"><br><br>
