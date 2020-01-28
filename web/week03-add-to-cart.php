@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <p> item successfully added to cart! </p>
-<a href="week03.php">Continue Shopping</a><br>
-<a href="view-cart.php">View Cart</a>
+<a href="week03-index.php">Continue Shopping</a><br>
+<a href="week03-view-cart.php">View Cart</a>
 </html>
 
