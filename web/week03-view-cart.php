@@ -19,6 +19,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<a href="checkout.php">Proceed to Checkout</a>
+	<a href="week03-checkout.php">Proceed to Checkout</a>
 </body>
 </html>
